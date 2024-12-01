@@ -25,14 +25,10 @@
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
----
 
 ## 🎬 Fun & Interactive
 - [![Animated GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)](https://your-portfolio-link.com)  
   _Click for more about me!_
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahmedadelelshaer&theme=github-dark)
