@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm [Your Name]
+# 👋 Hello World! I'm Ahmed Adel
 
 🎓 **Senior Student** at **Cairo University**  
 💻 **Full-Stack Software Engineer** passionate about crafting impactful software solutions  
