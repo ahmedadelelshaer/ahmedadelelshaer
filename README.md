@@ -28,7 +28,6 @@
 
 
 ## 🎬 Fun & Interactive
-- [![Animated GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)](https://your-portfolio-link.com)  
+- [![Animated GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)](https://ahmed-adel-portfolio.netlify.app/)  
   _Click for more about me!_
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahmedadelelshaer&theme=github-dark)
