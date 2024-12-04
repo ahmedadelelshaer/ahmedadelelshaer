@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Ahmed Adel
 
-🎓 **Senior softwre engineering Student** at **Cairo University**  
+🎓 **Senior software engineering Student** at **Cairo University**  
 💻 **Full-Stack Software Engineer** passionate about crafting impactful software solutions  
 🌟 Always exploring new technologies and improving my skills  
 
