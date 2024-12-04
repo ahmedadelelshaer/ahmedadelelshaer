@@ -27,7 +27,7 @@
 
 
 
-## 🎬 Fun & Interactive
+## 🎬 More About Me
 - [![Animated GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)](https://ahmed-adel-portfolio.netlify.app/)  
   _Click for more about me!_
 
